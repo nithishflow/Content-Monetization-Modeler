@@ -1,5 +1,7 @@
 📊 ContentMonetizationModeler
+
 🎥 YouTube Video Revenue Analytics & Prediction
+
 📌 Project Overview
 
 ContentMonetizationModeler analyzes YouTube video performance across categories, devices, and countries to uncover key drivers of ad revenue and audience engagement.
