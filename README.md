@@ -3,13 +3,13 @@
 🎥 YouTube Video Revenue Analytics & Prediction
 
 📌 Project Overview
-
+---
 ContentMonetizationModeler analyzes YouTube video performance across categories, devices, and countries to uncover key drivers of ad revenue and audience engagement.
 
 The project combines Exploratory Data Analysis (EDA), Feature Engineering, and Machine Learning modeling to predict ad revenue and extract actionable business insights.
 
 The goal is to transform raw engagement metrics into strategic intelligence for creators, advertisers, and media companies.
-
+---
 📁 Dataset Overview
 
 The dataset captures YouTube video performance metrics, including:
